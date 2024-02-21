@@ -16,5 +16,5 @@ public class Korean {
          this.ssn = s; // s변수의 값을 ssn 필드에 넣어준다.
     }
 
-    //멧오드생략
+    //메소드생략
 }
